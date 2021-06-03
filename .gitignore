@@ -29,4 +29,5 @@ override.tf.json
 # example: *tfplan*
 
 conf.env
-deploy-infrastructure.sh
+#deploy-infrastructure.sh
+.terraform.lock.hcl
